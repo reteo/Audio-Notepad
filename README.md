@@ -1,2 +1,3 @@
 # Audio-Notepad
-A simple audio recorder for Linux, meant for taking notes.
+
+This is an implementation of an audio notepad in Linux, designed to simply record audio quickly and easily.  This is intended to be the audio counterpart to the text editor, allowing you to quickly speak your thoughts for transcription later, or even work on non-text items, such as musical notes (pun not intended, but very much enjoyed).  In fact, my own purpose for making this is to provide a quick method to record musical melodies to transcribe into a MIDI sequencer for synthesis (I don't want to have to launch Audacity or a full-on DAW just to record a quick tune for later).
